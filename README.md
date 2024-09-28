@@ -1,16 +1,10 @@
-# go_moon
+# Go Moon🌙
 
 A new Flutter project.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+This how it looks like when you clone in your device 👇
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![GoMoon](https://github.com/user-attachments/assets/8ee54a34-3d5d-4bd6-a0cd-93650de67c9c)
